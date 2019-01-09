@@ -1,10 +1,10 @@
 # DBMS_EXP
 This repository stores the code and data for the NTUEE DBMS Final Project, including scripts for graph DB systems study and Neo4j exemplar query.
 1. Files should be contain in EXP:
-EXP/\\
-  jieba_dict/\\
-    dict.txt.big\\
-    stopwords.txt\\
+EXP/  
+  jieba_dict/  
+    dict.txt.big  
+    stopwords.txt  
   emampler_query.py\\
   word2vec.model\\
   word2vec.model.trainables.syn1neg.npy\\
