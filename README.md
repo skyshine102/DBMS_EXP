@@ -1,6 +1,6 @@
 # DBMS_EXP
 This repository stores the code and data for the NTUEE DBMS Final Project, including scripts for graph DB systems study and Neo4j exemplar query.
-Files should be contain in EXP:
+1. Files should be contain in EXP:
 EXP/
   jieba_dict/
     dict.txt.big
@@ -15,6 +15,10 @@ https://drive.google.com/file/d/1j8YQWZjYtc3yBTloVWkQo_t5fIAztPm4/view?usp=shari
 https://drive.google.com/file/d/1441KBAM3ZAKWxjggBoDHWiy4apzPXImU/view?usp=sharing
 https://drive.google.com/file/d/1Tw0gyUYVm0bjazmucUvQ2Jou_TKjbbHU/view?usp=sharing
 
+2.example data loading(on Windows): 
+py py2neo.py
+
+3.query example 
 Query single nodes:
 eg. 電腦網路導論
 
