@@ -15,13 +15,13 @@ This repository stores the code and data for the NTUEE DBMS Final Project, inclu
   https://drive.google.com/file/d/1441KBAM3ZAKWxjggBoDHWiy4apzPXImU/view?usp=sharing  
   https://drive.google.com/file/d/1Tw0gyUYVm0bjazmucUvQ2Jou_TKjbbHU/view?usp=sharing  
 
-2.example data loading(on Windows):   
+2. example data loading(on Windows):   
   py py2neo.py  
 
-3.execute program(On windows):  
+3. execute program(On windows):  
   py exampler_query.py  
 
-4.query example: If you want to type a word with whitespace, type "_" instead of whitespace.    
+4. query example: If you want to type a word with whitespace, type "_" instead of whitespace.    
   Query single nodes:  
   eg. 電腦網路導論  
 
