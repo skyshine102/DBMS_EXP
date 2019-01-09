@@ -2,13 +2,13 @@
 This repository stores the code and data for the NTUEE DBMS Final Project, including scripts for graph DB systems study and Neo4j exemplar query.  
 1.Files should be contain in EXP:  
   EXP/  
-    jieba_dict/  
-      dict.txt.big  
-      stopwords.txt  
-    emampler_query.py  
-    word2vec.model  
-    word2vec.model.trainables.syn1neg.npy  
-    word2vec.model.wv.vectors.npy  
+    >>jieba_dict/  
+      >>>>dict.txt.big  
+      >>>>stopwords.txt  
+    >>emampler_query.py  
+    >>word2vec.model  
+    >>word2vec.model.trainables.syn1neg.npy  
+    >>word2vec.model.wv.vectors.npy  
 
   Below are links for word2vec.model, word2vec.model.trainables.syn1neg.npy, word2vec.model.wv.vectors.npy  
   https://drive.google.com/file/d/1j8YQWZjYtc3yBTloVWkQo_t5fIAztPm4/view?usp=sharing  
